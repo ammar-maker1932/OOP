@@ -1,4 +1,6 @@
+//class start
 class Cart {
+    //private
 private:
     static const int MAX_ITEMS = 100;
     int product_codes[MAX_ITEMS];
